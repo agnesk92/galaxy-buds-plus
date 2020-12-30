@@ -1,11 +1,16 @@
-""" Simple GUI for showing battery level for Galaxy Buds Plus device """
+""" Simple GUI for showing battery level for Galaxy Buds Plus """
 import sys
+import logging 
 
 from PyQt5 import QtGui, QtCore
 from PyQt5.QtWidgets import QAction, QApplication, QSystemTrayIcon, QMenu, QWidget
 
 from battery import get_battery_levels
 from devices import DeviceInfo
+from logger import config_logger
+
+config_logger()
+logger = logging.getLogger(__name__)
 
 
 def get_earbud_battery_info(): 
@@ -54,6 +59,7 @@ class SystemTrayIcon(QSystemTrayIcon):
         
 
 def main():
+    logger.info("Starting app..")
     app = QApplication(sys.argv)
     buds_widget = QWidget()
 
