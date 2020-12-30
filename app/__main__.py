@@ -57,7 +57,7 @@ def main():
     app = QApplication(sys.argv)
     buds_widget = QWidget()
 
-    trayIcon = SystemTrayIcon(QtGui.QIcon("galaxy-icon.png"), buds_widget, app=app)
+    trayIcon = SystemTrayIcon(QtGui.QIcon("icons/galaxy-icon.png"), buds_widget, app=app)
     trayIcon.load_tooltip()
     trayIcon.toolTip()
     trayIcon.show()
