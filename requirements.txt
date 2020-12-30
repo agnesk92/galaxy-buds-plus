@@ -1,0 +1,3 @@
+pybluez
+pyqt5
+
