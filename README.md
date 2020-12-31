@@ -2,7 +2,7 @@
   <p>
     <h1>
       <a href="https://github.com/agnesk92/GalaxyBudsPlusBattery">
-        <img src="icons/galaxy.svg" alt="Galaxy EarBuds+ App" />
+        <img src="icons/galaxy-small.svg" alt="Galaxy EarBuds+ App" />
       </a>
       <br />
       EarBuds+ Battery Indicator App
