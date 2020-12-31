@@ -22,7 +22,7 @@ def get_earbud_battery_info():
         device_address = device_man.get_device_address(device_name)
         return get_battery_levels(device_address) 
     except Exception as e:
-        print("Couldn't get battery info.")
+        logger.info("Couldn't get battery info.")
         return None
     
 
@@ -43,18 +43,18 @@ class SystemTrayIcon(QSystemTrayIcon):
         self.setContextMenu(menu)
 
     def load_tooltip(self):
-        print("Getting battery levels..")    
+        logger.info("Getting battery levels..")    
         battery_levels = get_earbud_battery_info()
         if battery_levels is not None:
             tooltip_msg = f"Battery {battery_levels[0]}%, {battery_levels[1]}%, {battery_levels[2]}%"
-            print(f"Set tooltip with battery levels: {b_left}%, {b_right}%, {b_case}%")    
+            logger.info(f"Set tooltip with battery levels: {b_left}%, {b_right}%, {b_case}%")    
         else:
             tooltip_msg = "No battery information"
 
         self.setToolTip(tooltip_msg)
 
     def close(self):
-        print("Exiting app")
+        logger.info("Exiting app")
         self.app.quit()
         
 

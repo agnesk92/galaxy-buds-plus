@@ -1,4 +1,12 @@
+import logging
+
 import bluetooth
+
+from logger import config_logger
+
+config_logger()
+logger = logging.getLogger(__name__)
+
 
 
 def get_battery_levels(bltooth_address): 
@@ -14,10 +22,10 @@ def get_battery_levels(bltooth_address):
     data = sock.recv(1024)
     batterylife = None
     while data[3] not in [96, 97] and len(data) != 0:
-        print(f"Data battery elem: {data[3]}")
+        logger.info(f"Data battery elem: {data[3]}")
         
         data = sock.recv(1024)
-        print(len(data))
+        logger.info(len(data))
         if data[3] == 97:
             batterylife = (data[6], data[7], data[11])
         if data[3] == 96:
@@ -44,15 +52,12 @@ if __name__ == "__main__":
     data = sock.recv(1024)
     batterylife = None
     while data[3] not in [96, 97] and len(data) != 0:
-        print(f"Data battery elem: {data[3]}")
+        logger.info(f"Data battery elem: {data[3]}")
         
         data = sock.recv(1024)
-        print(len(data))
         if data[3] == 97:
             batterylife = "{},{},{}".format(data[6], data[7], data[11])
         if data[3] == 96:
             batterylife = "{},{},{}".format(data[5], data[6], data[10])
-        # batterylife2 = "{},{},{}".format(data[2], data[3], data[7])
         
-        print(str(batterylife))
-
+        logger.info(f"Batterylife: {str(batterylife)}")

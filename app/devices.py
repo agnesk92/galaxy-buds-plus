@@ -1,4 +1,11 @@
+import logging
+
 import pydbus
+
+from logger import config_logger
+
+config_logger()
+logger = logging.getLogger(__name__)
 
 
 class DeviceInfo:
@@ -63,13 +70,13 @@ if __name__ == "__main__":
     device_manager = DeviceInfo()
     
     # conndevs = device_manager.connected_devices
-    # print(conndevs)
+    # logger.info(conndevs)
     
     name = device_manager.get_similar_device_names(approx_name)[0]
-    print(name)
+    logger.info(name)
 
     address = device_manager.get_device_address(name)
-    print(address)
+    logger.info(address)
 
     is_conn = device_manager.is_device_connected(address=address)
-    print(f"Is conn: {is_conn}")
+    logger.info(f"Is conn: {is_conn}")
