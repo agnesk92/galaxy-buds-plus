@@ -8,9 +8,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="118.28804mm"
-   height="96.253204mm"
-   viewBox="0 0 118.28804 96.253204"
+   width="57.942341mm"
+   height="47.707619mm"
+   viewBox="0 0 57.942341 47.707618"
    version="1.1"
    id="svg8"
    inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
@@ -49,15 +49,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.21298507"
-     inkscape:cx="-608.73743"
-     inkscape:cy="-19.723898"
+     inkscape:zoom="1.5763216"
+     inkscape:cx="106.33443"
+     inkscape:cy="87.888438"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:pagecheckerboard="false"
-     showborder="false"
+     showborder="true"
      inkscape:window-width="1920"
      inkscape:window-height="947"
      inkscape:window-x="0"
@@ -71,7 +71,7 @@
        type="xygrid"
        id="grid1557"
        originx="-45.966221"
-       originy="-98.818207" />
+       originy="-98.818205" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -90,403 +90,407 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-45.966221,-98.818204)">
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 140.70956,185.44746 c -0.14461,0.0614 -0.28697,0.12558 -0.43295,0.18522 a 55.621753,37.095702 26.733546 0 0 0.43295,-0.18522 z"
-       id="path1597"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 153.34153,175.38716 a 55.621753,37.095702 26.733546 0 1 -12.57574,10.03596 c 5.23736,-2.23295 9.55901,-5.58979 12.57574,-10.03596 z"
-       id="path1595"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 153.72086,174.81677 a 55.621753,37.095702 26.733546 0 1 -0.37933,0.57039 c 0.12809,-0.18874 0.25597,-0.37772 0.37933,-0.57039 z"
-       id="path1593"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 154.22288,174.00613 c -0.16177,0.27471 -0.33104,0.54344 -0.50202,0.81064 a 55.621753,37.095702 26.733546 0 0 0.50202,-0.81064 z"
-       id="path1591"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 154.55298,173.43235 c -0.10747,0.19342 -0.21823,0.38391 -0.3301,0.57378 a 55.621753,37.095702 26.733546 0 0 0.3301,-0.57378 z"
-       id="path1589"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 63.451327,113.32904 a 55.621753,37.095702 26.733546 0 1 11.602829,-5.56788 6.5590713,6.5642566 26.733546 0 0 -2.292927,-1.91867 6.5590713,6.5642566 26.733546 0 0 -8.811126,2.91213 6.5590713,6.5642566 26.733546 0 0 -0.498776,4.57442 z"
-       id="path1587"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 78.726865,174.71316 a 55.621753,37.095702 26.733546 0 1 -6.979048,-5.45588 4.4844649,4.4880098 26.733546 0 0 -0.08342,0.1576 4.4844649,4.4880098 26.733546 0 0 1.986191,6.02567 4.4844649,4.4880098 26.733546 0 0 5.076283,-0.72738 z"
-       id="path1585"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 135.18866,188.8896 a 55.621753,37.095702 26.733546 0 1 -8.15344,1.4306 4.4844649,4.4880098 26.733546 0 0 1.76004,1.58893 4.4844649,4.4880098 26.733546 0 0 6.02406,-1.99105 4.4844649,4.4880098 26.733546 0 0 0.36934,-1.02848 z"
-       id="path1583"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 135.23085,187.28452 a 4.4844649,4.4880098 26.733546 0 1 -0.0159,0.0747 55.621753,37.095702 26.733546 0 0 5.02856,-1.7125 c -1.59247,0.64872 -3.26801,1.19347 -5.0124,1.6379 z"
-       id="path1581"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 126.91215,190.1159 c 2.89869,-0.20156 5.67542,-0.63425 8.29241,-1.301 a 4.4844649,4.4880098 26.733546 0 0 -2.37169,-4.92259 4.4844649,4.4880098 26.733546 0 0 -6.02405,1.99106 4.4844649,4.4880098 26.733546 0 0 0.10333,4.23253 z"
-       id="path1579"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 79.533088,173.70808 a 4.4844649,4.4880098 26.733546 0 1 -0.806505,1.00501 55.621753,37.095702 26.733546 0 0 9.947398,5.91527 55.621753,37.095702 26.733546 0 0 38.387269,8.16136 4.4844649,4.4880098 26.733546 0 1 -0.12281,-0.2042 c -11.25257,0.78245 -24.35296,-1.95929 -37.192611,-8.42638 -3.712367,-1.94521 -7.117249,-4.1157 -10.212741,-6.45106 z"
-       id="path1577"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 72.847523,167.94639 c 2.033389,2.00505 4.263524,3.93439 6.685565,5.76169 a 4.4844649,4.4880098 26.733546 0 0 0.141257,-0.25867 4.4844649,4.4880098 26.733546 0 0 -1.986191,-6.02566 4.4844649,4.4880098 26.733546 0 0 -4.840647,0.52262 z"
-       id="path1575"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 66.250283,117.22114 a 6.5590713,6.5642566 26.733546 0 1 -2.799259,-3.89217 55.621753,37.095702 26.733546 0 0 -7.766146,9.14764 55.621753,37.095702 26.733546 0 0 16.062658,46.78061 4.4844649,4.4880098 26.733546 0 1 1.099987,-1.31083 C 55.706821,151.04446 52.542028,128.78165 66.250283,117.22114 Z"
-       id="path1573"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 76.368206,111.74899 c -4.04541,1.32427 -7.410723,3.18911 -10.117923,5.47215 a 6.5590713,6.5642566 26.733546 0 0 0.604941,0.34636 6.5590713,6.5642566 26.733546 0 0 8.81089,-2.91167 6.5590713,6.5642566 26.733546 0 0 0.702096,-2.90685 z"
-       id="path1571"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 155.57255,152.5286 c -0.63847,-1.95833 -1.45735,-3.91001 -2.43115,-5.84187 a 3.1677181,3.1702218 26.733546 0 0 -1.45092,1.42859 3.1677181,3.1702218 26.733546 0 0 1.40254,4.25623 3.1677181,3.1702218 26.733546 0 0 2.47953,0.15705 z"
-       id="path1569"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 155.03768,172.51876 c -0.13573,0.26938 -0.27717,0.53472 -0.42083,0.79771 a 55.621753,37.095702 26.733546 0 0 0.42083,-0.79771 z"
-       id="path1567"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 156.55871,151.96413 a 3.1677181,3.1702218 26.733546 0 1 -0.98616,0.56447 c 2.21541,6.79517 2.29995,13.6619 -0.53487,19.99016 a 55.621753,37.095702 26.733546 0 0 1.52103,-20.55463 z"
-       id="path1565"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 154.58997,146.37137 a 55.621753,37.095702 26.733546 0 1 1.96874,5.59276 3.1677181,3.1702218 26.733546 0 0 0.78962,-0.99906 3.1677181,3.1702218 26.733546 0 0 -1.403,-4.25646 3.1677181,3.1702218 26.733546 0 0 -1.35536,-0.33724 z"
-       id="path1563"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 121.83052,114.25774 a 55.621753,37.095702 26.733546 0 0 -46.776667,-6.49665 6.5590713,6.5642566 26.733546 0 1 1.314353,3.9879 c 4.486706,-1.46875 9.807798,-2.27352 15.998366,-2.24182 23.240348,-0.89111 50.616328,17.02702 60.774828,37.17956 a 3.1677181,3.1702218 26.733546 0 1 1.44857,-0.31536 55.621753,37.095702 26.733546 0 0 -32.54161,-32.0039 55.621753,37.095702 26.733546 0 0 -0.21783,-0.10978 z"
-       id="path10"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <ellipse
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6632)"
-       id="ellipse875-5"
-       cx="123.36337"
-       cy="133.48564"
-       rx="19.64852"
-       ry="19.664051"
-       transform="matrix(1.171427,0.15594639,-0.15423232,1.1844458,-19.002742,-31.635681)"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0111132;stroke-miterlimit:4;stroke-dasharray:0.0111132, 0.0333396;stroke-dashoffset:0;stroke-opacity:1"
-       id="path1642"
-       cx="154.63527"
-       cy="149.65262"
-       r="3.7531037"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0111132;stroke-miterlimit:4;stroke-dasharray:0.0111132, 0.0333396;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1644"
-       cx="154.63527"
-       cy="149.65262"
-       r="3.7531037"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.022;stroke-miterlimit:4;stroke-dasharray:0.022, 0.066;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1644-9"
-       cx="69.611023"
-       cy="111.77892"
-       r="7.3492904"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0171983;stroke-miterlimit:4;stroke-dasharray:0.0171983, 0.051595;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1644-9-1"
-       cx="75.286827"
-       cy="171.39961"
-       r="5.808135"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="display:inline;mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.731035;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 84.200218,191.28413 a 71.967508,47.997144 14.182983 0 1 -10.348174,-4.92833 5.80233,5.8069167 14.182983 0 0 -0.06099,0.22252 5.80233,5.8069167 14.182983 0 0 4.202644,7.05172 5.80233,5.8069167 14.182983 0 0 6.206595,-2.34589 z"
-       id="path5354-2"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="display:inline;mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.731035;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 74.872334,184.39101 c 3.131827,1.9606 6.490848,3.77024 10.063533,5.39705 a 5.80233,5.8069167 14.182983 0 0 0.10577,-0.36637 5.80233,5.8069167 14.182983 0 0 -4.202632,-7.0517 5.80233,5.8069167 14.182983 0 0 -5.966581,2.02103 z"
-       id="path5356-7"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00961406;stroke-miterlimit:4;stroke-dasharray:0.00961406, 0.0288422;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1644-9-1-0-0"
-       cx="56.849346"
-       cy="164.18033"
-       r="3.2468197"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <ellipse
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00741882;stroke-miterlimit:4;stroke-dasharray:0.00741882, 0.0222565;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1644-9-1-0-8"
-       cx="48.475407"
-       cy="128.39299"
-       rx="2.5054781"
-       ry="2.5054271"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00961406;stroke-miterlimit:4;stroke-dasharray:0.00961406, 0.0288422;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5448"
-       cx="137.05333"
-       cy="109.51229"
-       r="3.2468197"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00301051;stroke-miterlimit:4;stroke-dasharray:0.00301051, 0.00903156;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5448-9"
-       cx="161.13289"
-       cy="154.23691"
-       r="1.0166967"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00301051;stroke-miterlimit:4;stroke-dasharray:0.00301051, 0.00903155;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5448-9-2"
-       cx="92.621033"
-       cy="101.67474"
-       r="1.0166967"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00476619;stroke-miterlimit:4;stroke-dasharray:0.00476619, 0.0142986;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5448-9-0"
-       cx="126.35555"
-       cy="111.45659"
-       r="1.6096181"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00301051;stroke-miterlimit:4;stroke-dasharray:0.00301051, 0.00903155;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5448-9-23"
-       cx="63.869671"
-       cy="177.36404"
-       r="1.0166967"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00301051;stroke-miterlimit:4;stroke-dasharray:0.00301051, 0.00903155;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5448-9-7"
-       cx="50.355858"
-       cy="146.31566"
-       r="1.0166967"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00301051;stroke-miterlimit:4;stroke-dasharray:0.00301051, 0.00903155;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5448-9-5"
-       cx="56.159966"
-       cy="112.85729"
-       r="1.0166967"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00301051;stroke-miterlimit:4;stroke-dasharray:0.00301051, 0.00903155;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5448-9-9"
-       cx="139.95726"
-       cy="118.31901"
-       r="1.0166967"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.013521;stroke-miterlimit:4;stroke-dasharray:0.013521, 0.040563;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1644-9-1-0-62-2-2"
-       cx="109.76336"
-       cy="110.5812"
-       r="4.5662479"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <ellipse
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00483118;stroke-miterlimit:4;stroke-dasharray:0.00483118, 0.0144936;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1644-9-1-0-62-6"
-       cx="162.53481"
-       cy="165.27373"
-       rx="1.7170392"
-       ry="1.5503472"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00301051;stroke-miterlimit:4;stroke-dasharray:0.00301051, 0.00903155;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5448-9-2-3"
-       cx="161.48482"
-       cy="137.76216"
-       r="1.0166967"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <ellipse
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00741881;stroke-miterlimit:4;stroke-dasharray:0.00741881, 0.0222565;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1644-9-1-0-8-2"
-       cx="150.94818"
-       cy="127.12754"
-       rx="2.5054781"
-       ry="2.5054271"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <ellipse
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00741881;stroke-miterlimit:4;stroke-dasharray:0.00741881, 0.0222565;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1644-9-1-0-8-0"
-       cx="103.80845"
-       cy="101.44582"
-       rx="2.5054781"
-       ry="2.5054271"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <ellipse
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00741881;stroke-miterlimit:4;stroke-dasharray:0.00741881, 0.0222565;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1644-9-1-0-8-1"
-       cx="73.87664"
-       cy="101.32725"
-       rx="2.5054781"
-       ry="2.5054271"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00599332;stroke-miterlimit:4;stroke-dasharray:0.00599332, 0.01798;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1644-9-1-0-62-0-5"
-       cx="96.029083"
-       cy="191.34795"
-       r="2.0240383"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00599332;stroke-miterlimit:4;stroke-dasharray:0.00599332, 0.01798;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1644-9-1-0-62-0-54"
-       cx="116.98239"
-       cy="192.32887"
-       r="2.0240383"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00263138;stroke-miterlimit:4;stroke-dasharray:0.00263138, 0.00789419;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5448-9-0-7-6-7"
-       cx="156.46455"
-       cy="176.52414"
-       r="0.88866222"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00263138;stroke-miterlimit:4;stroke-dasharray:0.00263138, 0.00789419;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5448-9-0-7-6-6"
-       cx="138.41095"
-       cy="189.56285"
-       r="0.88866222"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00263138;stroke-miterlimit:4;stroke-dasharray:0.00263138, 0.00789419;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5448-9-0-7-6"
-       cx="106.20471"
-       cy="194.18161"
-       r="0.88866222"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00599332;stroke-miterlimit:4;stroke-dasharray:0.00599332, 0.01798;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1644-9-1-0-62-0"
-       cx="143.93312"
-       cy="189.50314"
-       r="2.0240383"
-       inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+     transform="translate(-45.966222,-98.818204)">
+    <g
+       id="g985"
+       transform="matrix(0.46447931,0,0,0.46447931,26.21483,54.386639)">
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 140.70956,185.44746 c -0.14461,0.0614 -0.28697,0.12558 -0.43295,0.18522 a 55.621753,37.095702 26.733546 0 0 0.43295,-0.18522 z"
+         id="path1597"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 153.34153,175.38716 a 55.621753,37.095702 26.733546 0 1 -12.57574,10.03596 c 5.23736,-2.23295 9.55901,-5.58979 12.57574,-10.03596 z"
+         id="path1595"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 153.72086,174.81677 a 55.621753,37.095702 26.733546 0 1 -0.37933,0.57039 c 0.12809,-0.18874 0.25597,-0.37772 0.37933,-0.57039 z"
+         id="path1593"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 154.22288,174.00613 c -0.16177,0.27471 -0.33104,0.54344 -0.50202,0.81064 a 55.621753,37.095702 26.733546 0 0 0.50202,-0.81064 z"
+         id="path1591"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 154.55298,173.43235 c -0.10747,0.19342 -0.21823,0.38391 -0.3301,0.57378 a 55.621753,37.095702 26.733546 0 0 0.3301,-0.57378 z"
+         id="path1589"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 63.451327,113.32904 a 55.621753,37.095702 26.733546 0 1 11.602829,-5.56788 6.5590713,6.5642566 26.733546 0 0 -2.292927,-1.91867 6.5590713,6.5642566 26.733546 0 0 -8.811126,2.91213 6.5590713,6.5642566 26.733546 0 0 -0.498776,4.57442 z"
+         id="path1587"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 78.726865,174.71316 a 55.621753,37.095702 26.733546 0 1 -6.979048,-5.45588 4.4844649,4.4880098 26.733546 0 0 -0.08342,0.1576 4.4844649,4.4880098 26.733546 0 0 1.986191,6.02567 4.4844649,4.4880098 26.733546 0 0 5.076283,-0.72738 z"
+         id="path1585"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 135.18866,188.8896 a 55.621753,37.095702 26.733546 0 1 -8.15344,1.4306 4.4844649,4.4880098 26.733546 0 0 1.76004,1.58893 4.4844649,4.4880098 26.733546 0 0 6.02406,-1.99105 4.4844649,4.4880098 26.733546 0 0 0.36934,-1.02848 z"
+         id="path1583"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 135.23085,187.28452 a 4.4844649,4.4880098 26.733546 0 1 -0.0159,0.0747 55.621753,37.095702 26.733546 0 0 5.02856,-1.7125 c -1.59247,0.64872 -3.26801,1.19347 -5.0124,1.6379 z"
+         id="path1581"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 126.91215,190.1159 c 2.89869,-0.20156 5.67542,-0.63425 8.29241,-1.301 a 4.4844649,4.4880098 26.733546 0 0 -2.37169,-4.92259 4.4844649,4.4880098 26.733546 0 0 -6.02405,1.99106 4.4844649,4.4880098 26.733546 0 0 0.10333,4.23253 z"
+         id="path1579"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 79.533088,173.70808 a 4.4844649,4.4880098 26.733546 0 1 -0.806505,1.00501 55.621753,37.095702 26.733546 0 0 9.947398,5.91527 55.621753,37.095702 26.733546 0 0 38.387269,8.16136 4.4844649,4.4880098 26.733546 0 1 -0.12281,-0.2042 c -11.25257,0.78245 -24.35296,-1.95929 -37.192611,-8.42638 -3.712367,-1.94521 -7.117249,-4.1157 -10.212741,-6.45106 z"
+         id="path1577"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 72.847523,167.94639 c 2.033389,2.00505 4.263524,3.93439 6.685565,5.76169 a 4.4844649,4.4880098 26.733546 0 0 0.141257,-0.25867 4.4844649,4.4880098 26.733546 0 0 -1.986191,-6.02566 4.4844649,4.4880098 26.733546 0 0 -4.840647,0.52262 z"
+         id="path1575"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 66.250283,117.22114 a 6.5590713,6.5642566 26.733546 0 1 -2.799259,-3.89217 55.621753,37.095702 26.733546 0 0 -7.766146,9.14764 55.621753,37.095702 26.733546 0 0 16.062658,46.78061 4.4844649,4.4880098 26.733546 0 1 1.099987,-1.31083 C 55.706821,151.04446 52.542028,128.78165 66.250283,117.22114 Z"
+         id="path1573"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 76.368206,111.74899 c -4.04541,1.32427 -7.410723,3.18911 -10.117923,5.47215 a 6.5590713,6.5642566 26.733546 0 0 0.604941,0.34636 6.5590713,6.5642566 26.733546 0 0 8.81089,-2.91167 6.5590713,6.5642566 26.733546 0 0 0.702096,-2.90685 z"
+         id="path1571"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 155.57255,152.5286 c -0.63847,-1.95833 -1.45735,-3.91001 -2.43115,-5.84187 a 3.1677181,3.1702218 26.733546 0 0 -1.45092,1.42859 3.1677181,3.1702218 26.733546 0 0 1.40254,4.25623 3.1677181,3.1702218 26.733546 0 0 2.47953,0.15705 z"
+         id="path1569"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 155.03768,172.51876 c -0.13573,0.26938 -0.27717,0.53472 -0.42083,0.79771 a 55.621753,37.095702 26.733546 0 0 0.42083,-0.79771 z"
+         id="path1567"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 156.55871,151.96413 a 3.1677181,3.1702218 26.733546 0 1 -0.98616,0.56447 c 2.21541,6.79517 2.29995,13.6619 -0.53487,19.99016 a 55.621753,37.095702 26.733546 0 0 1.52103,-20.55463 z"
+         id="path1565"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 154.58997,146.37137 a 55.621753,37.095702 26.733546 0 1 1.96874,5.59276 3.1677181,3.1702218 26.733546 0 0 0.78962,-0.99906 3.1677181,3.1702218 26.733546 0 0 -1.403,-4.25646 3.1677181,3.1702218 26.733546 0 0 -1.35536,-0.33724 z"
+         id="path1563"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 121.83052,114.25774 a 55.621753,37.095702 26.733546 0 0 -46.776667,-6.49665 6.5590713,6.5642566 26.733546 0 1 1.314353,3.9879 c 4.486706,-1.46875 9.807798,-2.27352 15.998366,-2.24182 23.240348,-0.89111 50.616328,17.02702 60.774828,37.17956 a 3.1677181,3.1702218 26.733546 0 1 1.44857,-0.31536 55.621753,37.095702 26.733546 0 0 -32.54161,-32.0039 55.621753,37.095702 26.733546 0 0 -0.21783,-0.10978 z"
+         id="path10"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6632)"
+         id="ellipse875-5"
+         cx="123.36337"
+         cy="133.48564"
+         rx="19.64852"
+         ry="19.664051"
+         transform="matrix(1.171427,0.15594639,-0.15423232,1.1844458,-19.002742,-31.635681)"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0111132;stroke-miterlimit:4;stroke-dasharray:0.0111132, 0.0333396;stroke-dashoffset:0;stroke-opacity:1"
+         id="path1642"
+         cx="154.63527"
+         cy="149.65262"
+         r="3.7531037"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0111132;stroke-miterlimit:4;stroke-dasharray:0.0111132, 0.0333396;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1644"
+         cx="154.63527"
+         cy="149.65262"
+         r="3.7531037"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.022;stroke-miterlimit:4;stroke-dasharray:0.022, 0.066;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1644-9"
+         cx="69.611023"
+         cy="111.77892"
+         r="7.3492904"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0171983;stroke-miterlimit:4;stroke-dasharray:0.0171983, 0.051595;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1644-9-1"
+         cx="75.286827"
+         cy="171.39961"
+         r="5.808135"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="display:inline;mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.731035;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 84.200218,191.28413 a 71.967508,47.997144 14.182983 0 1 -10.348174,-4.92833 5.80233,5.8069167 14.182983 0 0 -0.06099,0.22252 5.80233,5.8069167 14.182983 0 0 4.202644,7.05172 5.80233,5.8069167 14.182983 0 0 6.206595,-2.34589 z"
+         id="path5354-2"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="display:inline;mix-blend-mode:normal;fill:#000000;stroke:#000000;stroke-width:0.731035;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 74.872334,184.39101 c 3.131827,1.9606 6.490848,3.77024 10.063533,5.39705 a 5.80233,5.8069167 14.182983 0 0 0.10577,-0.36637 5.80233,5.8069167 14.182983 0 0 -4.202632,-7.0517 5.80233,5.8069167 14.182983 0 0 -5.966581,2.02103 z"
+         id="path5356-7"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00961406;stroke-miterlimit:4;stroke-dasharray:0.00961406, 0.0288422;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1644-9-1-0-0"
+         cx="56.849346"
+         cy="164.18033"
+         r="3.2468197"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00741882;stroke-miterlimit:4;stroke-dasharray:0.00741882, 0.0222565;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1644-9-1-0-8"
+         cx="48.475407"
+         cy="128.39299"
+         rx="2.5054781"
+         ry="2.5054271"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00961406;stroke-miterlimit:4;stroke-dasharray:0.00961406, 0.0288422;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5448"
+         cx="137.05333"
+         cy="109.51229"
+         r="3.2468197"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00301051;stroke-miterlimit:4;stroke-dasharray:0.00301051, 0.00903156;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5448-9"
+         cx="161.13289"
+         cy="154.23691"
+         r="1.0166967"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00301051;stroke-miterlimit:4;stroke-dasharray:0.00301051, 0.00903155;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5448-9-2"
+         cx="92.621033"
+         cy="101.67474"
+         r="1.0166967"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00476619;stroke-miterlimit:4;stroke-dasharray:0.00476619, 0.0142986;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5448-9-0"
+         cx="126.35555"
+         cy="111.45659"
+         r="1.6096181"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00301051;stroke-miterlimit:4;stroke-dasharray:0.00301051, 0.00903155;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5448-9-23"
+         cx="63.869671"
+         cy="177.36404"
+         r="1.0166967"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00301051;stroke-miterlimit:4;stroke-dasharray:0.00301051, 0.00903155;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5448-9-7"
+         cx="50.355858"
+         cy="146.31566"
+         r="1.0166967"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00301051;stroke-miterlimit:4;stroke-dasharray:0.00301051, 0.00903155;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5448-9-5"
+         cx="56.159966"
+         cy="112.85729"
+         r="1.0166967"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00301051;stroke-miterlimit:4;stroke-dasharray:0.00301051, 0.00903155;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5448-9-9"
+         cx="139.95726"
+         cy="118.31901"
+         r="1.0166967"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.013521;stroke-miterlimit:4;stroke-dasharray:0.013521, 0.040563;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1644-9-1-0-62-2-2"
+         cx="109.76336"
+         cy="110.5812"
+         r="4.5662479"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00483118;stroke-miterlimit:4;stroke-dasharray:0.00483118, 0.0144936;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1644-9-1-0-62-6"
+         cx="162.53481"
+         cy="165.27373"
+         rx="1.7170392"
+         ry="1.5503472"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00301051;stroke-miterlimit:4;stroke-dasharray:0.00301051, 0.00903155;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5448-9-2-3"
+         cx="161.48482"
+         cy="137.76216"
+         r="1.0166967"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00741881;stroke-miterlimit:4;stroke-dasharray:0.00741881, 0.0222565;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1644-9-1-0-8-2"
+         cx="150.94818"
+         cy="127.12754"
+         rx="2.5054781"
+         ry="2.5054271"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00741881;stroke-miterlimit:4;stroke-dasharray:0.00741881, 0.0222565;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1644-9-1-0-8-0"
+         cx="103.80845"
+         cy="101.44582"
+         rx="2.5054781"
+         ry="2.5054271"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00741881;stroke-miterlimit:4;stroke-dasharray:0.00741881, 0.0222565;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1644-9-1-0-8-1"
+         cx="73.87664"
+         cy="101.32725"
+         rx="2.5054781"
+         ry="2.5054271"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00599332;stroke-miterlimit:4;stroke-dasharray:0.00599332, 0.01798;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1644-9-1-0-62-0-5"
+         cx="96.029083"
+         cy="191.34795"
+         r="2.0240383"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00599332;stroke-miterlimit:4;stroke-dasharray:0.00599332, 0.01798;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1644-9-1-0-62-0-54"
+         cx="116.98239"
+         cy="192.32887"
+         r="2.0240383"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00263138;stroke-miterlimit:4;stroke-dasharray:0.00263138, 0.00789419;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5448-9-0-7-6-7"
+         cx="156.46455"
+         cy="176.52414"
+         r="0.88866222"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00263138;stroke-miterlimit:4;stroke-dasharray:0.00263138, 0.00789419;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5448-9-0-7-6-6"
+         cx="138.41095"
+         cy="189.56285"
+         r="0.88866222"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00263138;stroke-miterlimit:4;stroke-dasharray:0.00263138, 0.00789419;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5448-9-0-7-6"
+         cx="106.20471"
+         cy="194.18161"
+         r="0.88866222"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00599332;stroke-miterlimit:4;stroke-dasharray:0.00599332, 0.01798;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1644-9-1-0-62-0"
+         cx="143.93312"
+         cy="189.50314"
+         r="2.0240383"
+         inkscape:export-filename="/home/agnesk/Projects/galaxybuds/icons/galaxy-smaller.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
   </g>
 </svg>
