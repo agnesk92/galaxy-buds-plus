@@ -5,7 +5,7 @@
         <img src="icons/galaxy-small.svg" alt="Galaxy EarBuds+ App" />
       </a>
       <br />
-      EarBuds+ Battery Indicator App
+      Galaxy EarBuds+ Battery Indicator App
     </h1>
   </p>
   <p>
