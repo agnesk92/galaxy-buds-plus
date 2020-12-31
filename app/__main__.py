@@ -46,8 +46,8 @@ class SystemTrayIcon(QSystemTrayIcon):
         logger.info("Getting battery levels..")
         battery_levels = get_earbud_battery_info()
         if battery_levels is not None:
+            logger.info(f"Set tooltip with battery levels: {battery_levels}")
             tooltip_msg = f"Battery {battery_levels[0]}%, {battery_levels[1]}%, {battery_levels[2]}%"
-            logger.info(f"Set tooltip with battery levels: {b_left}%, {b_right}%, {b_case}%")
         else:
             tooltip_msg = "No battery information"
 
