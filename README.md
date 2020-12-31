@@ -10,7 +10,7 @@
   </p>
   <p>
     <a href="https://github.com/agnesk92/GalaxyBudsPlusBattery/blob/main/LICENSE">
-        <img src="https://img.shields.io/apm/l/galaxybuds+battery?style=flat-square" alt="License" />
+        <img src="https://img.shields.io/github/license/agnesk92/GalaxyBudsPlusBattery?color=yellow&style=flat-square" alt="License" />
     </a>
   </p>
 </div>
