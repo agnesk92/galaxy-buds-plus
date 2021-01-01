@@ -20,6 +20,7 @@ def get_earbud_battery_info():
     device_name = device_man.get_similar_device_names(approx_name)[0]
     try:
         device_address = device_man.get_device_address(device_name)
+        logger.info(f"Device address: {device_address}")
         return get_battery_levels(device_address)
     except Exception as e:
         logger.info("Couldn't get battery info.")
