@@ -18,3 +18,20 @@
 <p>
     Samsung's RFCOMM protocol interpretation for battery info was used from https://github.com/ThePBone/GalaxyBuds-BatteryLevel.
 </p>
+
+<h2>Running the app</h2>
+
+With Conda
+
+```
+conda create -n gbuds python=3.7
+conda activate gbuds
+pip install -r requirements
+
+# If it complains on missing PyGObject, use conda's binaries:
+conda install -c conda-forge pygobject
+
+# Run
+python app
+```
+
